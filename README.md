@@ -14,7 +14,7 @@ The script produces CSV output in the following format:
 
 ```
 "stop_id","stop_name","stop_lon","stop_lat","stop_code"
-"3129592","Unterickelsheim, Unterickelsheim Ort",10.160896984399999,49.606709571900005,"de:9675:29592"
+"3115233","Memmelsdorf (Ufr), Memmelsdorf (Ufr.)",10.8538214664,50.1429440625,"de:9674:15233"
 ```
 
 # Usage
